@@ -58,29 +58,7 @@
   "features": {
     "title": "Latest & greatest ",
     "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "items": [
-      {
-        "name": "NFT",
-        "description": "Source code as NFT, economic encouragement.",
-        "icon": "/assets/images/react.png"
-      },
-      {
-        "name": "Ownership",
-        "description": "Have all the data.",
-        "icon": "/assets/images/tailwindcss.svg"
-      },
-      {
-        "name": "Privacy",
-        "description": "No login required, no data collection.",
-        "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Decentralization",
-        "description": "The data is not in the central server, data in ipfs.",
-        "icon": "/assets/images/ts.png"
-      }
-    ]
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
   },
   "pricing": {
     "title": "Pricing",
