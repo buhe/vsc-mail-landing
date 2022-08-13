@@ -27,9 +27,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Redis",
-    "subtitle": "on blockchain",
-    "description": "Redis on blockchain.",
+    "title": "VSCode",
+    "subtitle": "mail",
+    "description": "A Mail client embedded in Visual Studio Code.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
