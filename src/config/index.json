@@ -122,7 +122,13 @@
     ]
   },
   "about": {
-    "sections": [],
+    "sections": [
+      {
+        "name": "",
+        "href": "",
+        "content": ""
+      }
+    ],
     "socialMedia": {
       "github": "https://github.com/buhe/vscode-mail",
       "twitter": "https://twitter.com/vscode-mail",
