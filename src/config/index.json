@@ -41,16 +41,16 @@
     }
   },
   "product": {
-    "title": "Redis on blockchain",
+    "title": "VSCode mail",
     "items": [
       {
-        "title": "A web3 world database.",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Support IMAP and SMTP protocol.",
+        "description": "",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Migrate your web2.0 app to web3.0 world.",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Support relay mail via MarkDown.",
+        "description": "",
         "img": "/assets/images/product2.jpg"
       }
     ]
@@ -145,9 +145,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/buhe/redis-on-blockchain",
-      "twitter": "https://twitter.com/redisonblockchain",
-      "linkedin": "https://www.linkedin.com/in/redisonblockchain/"
+      "github": "https://github.com/buhe/vscode-mail",
+      "twitter": "https://twitter.com/vscode-mail",
+      "linkedin": "https://www.linkedin.com/in/vscode-mail/"
     }
   }
 }
